@@ -1,0 +1,10 @@
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\bin\Debug\LinkedListFinal.exe.config
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\bin\Debug\LinkedListFinal.exe
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\bin\Debug\LinkedListFinal.pdb
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\obj\Debug\LinkedListFinal.Form1.resources
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\obj\Debug\LinkedListFinal.Properties.Resources.resources
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\obj\Debug\LinkedListFinal.csproj.GenerateResource.cache
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\obj\Debug\LinkedListFinal.csproj.CoreCompileInputs.cache
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\obj\Debug\LinkedListFinal.exe
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\obj\Debug\LinkedListFinal.pdb
+C:\Users\dogaa\Desktop\sinifuc\2.yariyil\Gorsel Programlama\LinkedListFinal\LinkedListFinal\obj\Debug\LinkedListFinal.csprojAssemblyReference.cache
